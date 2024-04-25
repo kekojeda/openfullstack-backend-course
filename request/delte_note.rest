@@ -1,7 +1,1 @@
-POST http://localhost:3001/api/notes
-Content-Type: application/json
-
-{
-"content": "rest client is a handy tool", "important": false
-
-}
+DELETE http://localhost:3001/api/notes/6626afa7b41b6877d17a1297
