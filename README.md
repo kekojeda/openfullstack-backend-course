@@ -1,1 +1,0 @@
-# openfullstack-backend-course
